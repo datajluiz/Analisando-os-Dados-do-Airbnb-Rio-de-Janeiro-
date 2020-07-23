@@ -25,6 +25,6 @@ Iremos identificar os comportamentos médios e discrepantes dos preços das acom
 
 ### 4 - Construindo o modelo do DS
 
-### Conclusão
+### 5 - Conclusão
 
 Créditos: Meu primeiro projeto de Data Science, atividade proposta do curso Data science na prática (DSNP), ministrado pelo professor (https://github.com/carlosfab) 
