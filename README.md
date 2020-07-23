@@ -1,3 +1,10 @@
+[![author](https://img.shields.io/badge/author-LuizLucena-red.svg)](https://www.linkedin.com/in/joseluizlucenaalves) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/datajluiz/Projetos-Data-science)
+
+<p align="center">
+  <img src="https://github.com/datajluiz/Luiz-Lucena/blob/master/banner.png" >
+</p>
+
+
 # Analisando os Dados do Airbnb Rio de Janeiro
 
 ## Descrição :
@@ -19,8 +26,3 @@ Iremos identificar os comportamentos médios e discrepantes dos preços das acom
 ### 4 - Construindo o modelo do DS
 
 ### Conclusão
-
-# Créditos:
-
-Meu primeiro projeto de Data Science, atividade proposta do curso Data science na prática (DSNP), ministrado pelo professor (https://github.com/carlosfab) 
-
