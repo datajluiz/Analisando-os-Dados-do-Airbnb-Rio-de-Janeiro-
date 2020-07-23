@@ -1,0 +1,2 @@
+# Analisando-os-Dados-do-Airbnb-Rio-de-Janeiro-
+Neste projeto iremos analisar os dados referentes à cidade do Rio de Janeiro e ver quais insights podem ser extraídos a partir desses dados brutos.  Iremos identificar os comportamentos médios e discrepantes dos preços das acomodações, realizaremos a comparação desses valores, investigaremos a interdependência entre as variáveis, tipos de acomodações e procuraremos identificar tendências por bairros.
